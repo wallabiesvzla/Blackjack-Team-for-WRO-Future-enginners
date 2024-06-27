@@ -1,2 +1,3 @@
-<h1 align="center"> Welcome to blackjack repository </h1>
+<h2 align="center"> Welcome to Blackjack repository </h2>
+
 
