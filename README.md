@@ -13,9 +13,15 @@ We are a team of seniors for the next school year, we decide to participe in thi
 
 -Daniela Texeira.Building and programming ( probably the big boss)
 
+<img src="https://github.com/wallabiesvzla/Blackjack-Team-for-WRO-Future-enginners/blob/53b11e5e7ef6acefd66c429d41aacffa35ac4ffc/%F0%9F%93%B8Photos/dani.jpg" width="150">
+
 -Rodrigo Paolillo. Great programmer and problably the most pragmatical inventor ( and the funny part of the team)
 
+<img src="https://github.com/wallabiesvzla/Blackjack-Team-for-WRO-Future-enginners/blob/53b11e5e7ef6acefd66c429d41aacffa35ac4ffc/%F0%9F%93%B8Photos/paolillo.jpg" width="150">
+
 -Christian Frendin. One of the best programmer in the school  ( No talkin just coding)
+
+<img src="https://github.com/wallabiesvzla/Blackjack-Team-for-WRO-Future-enginners/blob/53b11e5e7ef6acefd66c429d41aacffa35ac4ffc/%F0%9F%93%B8Photos/christian.jpg" width="150">
 
 ## Content
 
