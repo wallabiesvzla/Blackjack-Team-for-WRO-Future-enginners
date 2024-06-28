@@ -7,9 +7,7 @@ Here you will find photos of our test and actual code in lego mindstorm, also we
 
 ## Other examples code
 
-<img src="Our Codes/Codigo basado en vuelta.jpg" width="650">
-
-<img src="Our Codes/codigo a vueltas con color.jpg" width="650">
+You can click in the files of this folder to access the other codes that we try  
 
 
 
