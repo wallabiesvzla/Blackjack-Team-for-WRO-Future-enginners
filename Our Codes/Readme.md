@@ -5,7 +5,12 @@ Here you will find photos of our test and actual code in lego mindstorm, also we
   
 <p> <a href="Our Codes/2do codigo basado en vuelta.jpg">Our Actual code</a>
 
-##Other examples code
-<img src="⚒️ Build/Lego pieces.PNG" width="800">
+## Other examples code
+
+<img src="Our Codes/Codigo basado en vuelta.jpg" width="650">
+
+<img src="Our Codes/codigo a vueltas con color.jpg" width="650">
+
+
 
 
