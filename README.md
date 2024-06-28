@@ -1,35 +1,20 @@
-# `TNT` - `TERRENEITOR`
+                                          # `Blackjack` - `Venezuelan team for WRO 2024`
 
-## About
+## About Us
 
-This repository provides information and knowledge regarding the current progress, evolution, and development of our self-driving robot vehicle for the World Robot Olympian (WRO) 2024 competition in the category Future Engineers, which is build and coded by us.
-
-## TNT & Terreneitor - WRO 2024 Future Engineers
-
-The name of our team is TNT, we chose this name because we will _explode_ the comptetition with our hard work and dedication! On the other hand, Terreneitor is the name of our autonomous robot, build by using lego and arduino together. We are a group of Venezuelan high schoolers who yearn to learn and be masters in robotics. TNT also have plenty of objectives like:
-
-* Obtain expertise and mastery in robotics, engineering and self-driven robots.
-* Learning how to cooperate and work as a team to solve problems with ingenious, imaginative, and creative solutions.
-* Acquire knowledge regarding new and old technologies, information about eletronics, hardware, software, and more.
-* Gain experience for opportunities or competitions that we might face in the future.
-* Win the competition and enjoy the process through this exciting road!
-
-TNT is form by three members (all 15 y.o.):
-
-  - Raffaella Salama Arias
-  - Emiliana Raquel Guerrero Fermíns
-  - Nicola Pasquale Simone Perdomo
-
-One thing that defines us, TNT, is that unlike others, we _don't_ give up easily, we are determine to be the best and improve as much as possible, always looking for success and enjoying every part of the process. You can see this characteristic about us being really strong during "our journey, process and prototypes" below and in the `prototypes and sketches` folder.
+We are a team of seniors for the next school year, we decide to participe in this competitions since last year our only school team wons the nationals and went to the wolrd robotics olympiad in panama, so we decide to try to emulate the same adventure as them and make this a tradition in our school.
+Our names and roles are.
+Daniela Texeira.Building and programming ( probably the big boss)
+Rodrigo Paolillo. Great programmer and problably the most pragmatical inventor ( and the funny part of the team)
+Christian Frendin. One of the best programmer in the school  ( No talkin just coding)
 
 ## Content
 
-- `Vehicle photos`: contains photos of the final robot from different views and angles, and how we build it.
-- `Prototypes and sketches`: contains photos of our previous ideas and prototypes that eventually lead to the final design and robot, Terreneitor.
-- `Code`: contains the code of the prototypes and the final robot.
-- `Videos`: contains links to our Youtube videos which show how our previous attempts turn out and function, and also how the final robot completes the challenges and more. 
-- `Models`: contains all the 3D printed models we used throught our journey.
-- `Build`: contains all the lego pieces, arduino/electrical components, and materials used in the final robot.
+- `Vehicle photos`
+- `Sketches & inspirations`
+- `Codes`
+- `Models`
+- `Test results`
 
 
 ## Materials and components
