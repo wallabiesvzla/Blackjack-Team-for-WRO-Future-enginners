@@ -1,4 +1,4 @@
-                              <h1 style="color: "blue";"> Blackjack - Venezuelan team for WRO 2024 </h1>
+#Blackjack - Venezuelan team for WRO 2024 </h1>
 
 ## About Us
 
