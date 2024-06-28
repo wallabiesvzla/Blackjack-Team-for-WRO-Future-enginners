@@ -1,6 +1,10 @@
 
 # - Blackjack - Venezuelan team for WRO 2024
 
+<img src="https://github.com/wallabiesvzla/Blackjack-Team-for-WRO-Future-enginners/blob/5a153f1f5f4c5dc400b2b96ec0bf7ba11f7b8bad/%F0%9F%93%B8Photos/blackjack%20todos.jpg" width="600">
+
+
+
 ## About Us
 
 We are a team of seniors for the next school year, we decide to participe in this competitions since last year our only school team wons the nationals and went to the wolrd robotics olympiad in panama, so we decide to try to emulate the same adventure as them and make this a tradition in our school.
