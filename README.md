@@ -1,3 +1,4 @@
+
 # - Blackjack - Venezuelan team for WRO 2024
 
 ## About Us
@@ -17,12 +18,12 @@ Christian Frendin. One of the best programmer in the school  ( No talkin just co
 - `Test results`
 
 
-## Materials and components
+## Main Components
 
-What is Terreneitor made of? Terreneitor is made of pieces and blocks from the _MINDSTORMS education EV3_ lego set, while also using electrical components, and arduino components.
+We use the default content from the _MINDSTORMS education EV3_ lego set and the expansion, we also use some especifical lego gears that we have in the robo lab of our school
 
-|THE LEGO PIECES OUR ROBOT USES ARE:|THE ARDUINO/ELECTRICAL COMPONENTS OUR ROBOT USES ARE:|                                                  
-|-----------------------------|---------------------|
+| Lego Sensors and motors|                                                 
+|-----------------------------|
 |6x Yellow 4265c|1x MicroServo 9g (SG90)|
 |10x Gray 3713|1x Yellow 9V Geared Dc Motor|
 |33x Black 2780|1x Gray 5V Dc Motor|
