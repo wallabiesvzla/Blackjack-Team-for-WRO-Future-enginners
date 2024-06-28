@@ -15,7 +15,7 @@ We are a team of seniors for the next school year, we decide to participe in thi
 
 ## Content
 
-- `Vehicle photos`
+- `Photos (prototypes and us )`
 - `Sketches & inspirations`
 - `Codes`
 - `Models`
