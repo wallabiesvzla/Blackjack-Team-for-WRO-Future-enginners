@@ -30,34 +30,23 @@ We use the default content from the _MINDSTORMS education EV3_ lego set and the 
 |-----------------------------|
 |1x Medium motor|
 |2x L Motor|
-|2x Black wheels 1231|1x Gray 5V Dc Motor|
+|2x Black wheels 1231|
+|2x Black wheels 3345|
 |1x Pixycam 2.1| ( not in our hands yet)
 |2x Ultrasound sensors|
 |1x Color sensor| 
 
 
+## The language
+Our initial idea is to use micropython for ev3 since study a lot of that language last school year, and our 3 members were between the top 5 programmers in python in our school, however we find really challenging to get the pip install command to run in our pc, our coach help us with that and doing the flashing sd card to get the software in the ev3 brick. We spen like 5 days making a code but when we try it we got a critical error in the parameters of 3 commands that belongs to the pybricks library, we spend almost a week doing this with no happy result, so we decide to go with the teacher version of legominstorm to get a similar freedom in the coding. However blocks are not our happy place in the coding procces and we are still facing challenges on this 
+
+
+### the big rocks in our way:
+We face many challenge along this competition, but our main rocks in the way ritgh now and in the past are :
 
 
 
-## Our attemps
 
-
-### First prototype:
-
-- The wheels mechanism did not work on the ground
-- The direction mechanism did not work
-- Heavy
-- Tall
-
-### Second prototype:
-
-- The mechanism we were using for the wheels violated the rules of WRO 2024 competition
-- Too big in width
-- Too heavy
-- Slow, due to the two previous problems
-- Didn't direct the robot correctly
-
-### *(to learn more about our sketches and prototypes go to the `prototypes and sketches` folder)*
 
 ### Final robot
 
