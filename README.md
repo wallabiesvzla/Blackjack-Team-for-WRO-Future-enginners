@@ -41,22 +41,35 @@ We use the default content from the _MINDSTORMS education EV3_ lego set and the 
 Our initial idea is to use micropython for ev3 since study a lot of that language last school year, and our 3 members were between the top 5 programmers in python in our school, however we find really challenging to get the pip install command to run in our pc, our coach help us with that and doing the flashing sd card to get the software in the ev3 brick. We spen like 5 days making a code but when we try it we got a critical error in the parameters of 3 commands that belongs to the pybricks library, we spend almost a week doing this with no happy result, so we decide to go with the teacher version of legominstorm to get a similar freedom in the coding. However blocks are not our happy place in the coding procces and we are still facing challenges on this 
 
 
-### the big rocks in our way:
+## The big rocks in our way:
 We face many challenge along this competition, but our main rocks in the way ritgh now and in the past are :
 
+- We got the track and the ev3 pieces really late . End of March
+  
+- We manage how tu turn te front wheels but for some reason is really dificult to get back in the original position
+
+- We use doble AA bateries and if they are not fully charged, the ev3 brick will not start any program
+
+- 0 Experience in this type of project
+
+- We are still strugling with the mindstorm block programming
+
+## This is how we play 
+We will face this in a very simple way, we need to complete the 3 challenges so :
+
+### challenge 1 
+We will use two ultrasonic sensors on the side and the lego color dectention on the floor. If we get blue color first we will o to rigth  and correct , else  we get the orange, we will turn left . Each ultrasonic sensor will move the direction on the opposite side of its location for 1 sec if the distance is below to 13 cm (we are still finding a sweet spot in this distance )
+
+### challenge 2  & 3  
+Sadly we dont have a pixie cam yet so basically we are not pretendin to complete this challenge until we get this device 
 
 
 
 
-### Final robot
 
-Journies have downsides and good times, advantages and disavantages. After the first and second prototype you might think that because of all this problems we might give up, but contrary to this hypothesis, we didn't (after all "third time's a charm", right?), instead we improved and our mistakes made us stronger, wiser and smarter. So when we created our final robot, we made sure to not make any of our previous mistakes, being very causious in its construction. Thanks to this, we have a robot that is:
 
-- Light weighted
-- Short and thin
-- The direction and wheel mechanism do work
-- Fast
-- Doesn't violate any rules of the WRO 2024 competition.
+
+
   
 
   
