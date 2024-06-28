@@ -1,4 +1,4 @@
-#Blackjack - Venezuelan team for WRO 2024 </h1>
+# - Blackjack - Venezuelan team for WRO 2024
 
 ## About Us
 
