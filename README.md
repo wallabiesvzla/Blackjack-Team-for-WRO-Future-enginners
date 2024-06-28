@@ -22,9 +22,6 @@ We are a team of seniors for the next school year, we decide to participe in thi
 - `Photos (prototypes and us )`
 - `Sketches & inspirations`
 - `Codes`
-- `Models`
-- `Test results`
-
 
 ## Main Components
 
