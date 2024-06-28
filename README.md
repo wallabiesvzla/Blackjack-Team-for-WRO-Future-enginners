@@ -6,8 +6,11 @@
 We are a team of seniors for the next school year, we decide to participe in this competitions since last year our only school team wons the nationals and went to the wolrd robotics olympiad in panama, so we decide to try to emulate the same adventure as them and make this a tradition in our school.
 
 ### Our names and roles are:
+
 -Daniela Texeira.Building and programming ( probably the big boss)
+
 -Rodrigo Paolillo. Great programmer and problably the most pragmatical inventor ( and the funny part of the team)
+
 -Christian Frendin. One of the best programmer in the school  ( No talkin just coding)
 
 ## Content
